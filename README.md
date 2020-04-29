@@ -1,0 +1,2 @@
+# python_medical_images
+医療AIとディープラーニングシリーズ Pythonによる医用画像処理入門の練習
